@@ -1,0 +1,19 @@
+SPA
+-Single Page Application
+-website or web application that rewrites the current page(dynamically) instead of reloading the entire web application, reducing the server requests.
+- improved application performace(fast reloading and cut downs lag time between successive pages), reduced developement time, lower infrastructure costs.
+
+Initially working with SPA was very tedious, and required heavy-coding. Also it was difficult to mange content within such applications.
+Content management systems were introduced.
+
+In SPAs, instead of reloading entire web pages, only those part of the web page is reloaded which is updated dynamically.
+ex. header, footer and sidebar of webpage remains same throughout application, and those are not reloaded everytime from server.
+
+Advantages of SPA:
+-HTML,CSS,JS files are loaded from server only once.
+-Reduced traffic on server i.e. no more queires to the server.
+-Fast and responsive front-end building
+-Enhanced user experience
+
+
+React is used to develop single page applications
